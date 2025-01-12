@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="yellow">#FFFF00</color> <!-- Yellow for AWAITED -->
+    <color name="red_light">#FFCDD2</color> <!-- Light Red for FAILEDTOREACH -->
+    <color name="green_light">#C8E6C9</color> <!-- Light Green for ONBOARDED -->
+    <color name="green_mid">#388E3C</color> <!-- Mid Green for INPROCESS -->
+    <color name="green_dark">#2C6B2F</color> <!-- Dark Green for COMPLETED -->
+    <color name="red">#F44336</color> <!-- Red for DENIED -->
+    <color name="gray">#B0BEC5</color> <!-- Default color for unknown statuses -->
+</resources>
