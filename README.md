@@ -28,7 +28,8 @@ The **Tax Management App** is an Android application designed to simplify the ta
 - **UI/UX**: Material Design principles for a clean and intuitive interface  
 
 ## Demo  
-> Provide screenshots or a short video showcasing the app’s key functionalities.  
+> <img width="330" alt="Ảnh màn hình 2025-01-12 lúc 18 19 00" src="https://github.com/user-attachments/assets/88527e2d-b11a-4274-8d91-5e82b398a764" />
+
 
 ## Setup Instructions  
 1. Clone the repository:  
